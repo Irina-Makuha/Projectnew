@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Hello, Мир"!);
+Console.WriteLine("Привет, всем"!);
